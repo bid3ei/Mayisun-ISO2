@@ -1,0 +1,63 @@
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\CapaNegocio.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\CapaNegocio.pdb
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\CapaDatos.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\CapaModelo.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\CapaDatos.pdb
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\CapaModelo.pdb
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.pdb
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaNegocio.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaNegocio.pdb
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaDatos.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaModelo.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaDatos.pdb
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaModelo.pdb
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.pdb
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaNegocio.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaNegocio.pdb
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaDatos.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaModelo.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaDatos.pdb
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\CapaModelo.pdb
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\UnitTestProject1\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,86 @@
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WINDOWS\Downloads\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\WINDOWS\Downloads\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\WINDOWS\Downloads\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\WINDOWS\Downloads\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\WINDOWS\Downloads\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Downloads\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Downloads\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\WINDOWS\Downloads\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\WINDOWS\Downloads\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\ClosedXML.dll
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\ExcelNumberFormat.dll
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\System.IO.Packaging.dll
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\ClosedXML.pdb
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\ClosedXML.xml
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\WINDOWS\Desktop\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\ExcelNumberFormat.xml
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\ClosedXML.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\ExcelNumberFormat.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\System.IO.Packaging.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\ClosedXML.pdb
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\ClosedXML.xml
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\bin\Debug\ExcelNumberFormat.xml
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\WINDOWS\Documents\SISTEMAS WEB\Proyecto ISO\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\ClosedXML.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\System.IO.Packaging.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\ClosedXML.pdb
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\ClosedXML.xml
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ingma\OneDrive\Documentos\SISTEMAS WEB\MAYISUN\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\ClosedXML.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\ExcelNumberFormat.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\System.IO.Packaging.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\ClosedXML.pdb
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\ClosedXML.xml
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\bin\Debug\ExcelNumberFormat.xml
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Universidad\Software 2\MAYISUN\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
